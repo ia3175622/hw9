@@ -1,0 +1,14 @@
+{
+    "name": "ivanakulov/hw9",
+    "type": "project",
+    "require": {
+        "hflabs/dadata": "^24.4"
+    },
+    "authors": [
+        {
+            "name": "ivanakulov",
+            "email": "ia3175622@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
